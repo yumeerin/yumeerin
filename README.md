@@ -68,16 +68,6 @@ It's to build a **small, clean foundation for making visual novels** without unn
 
 ![Japanese](https://img.shields.io/badge/Japanese-Beginner-000000?style=for-the-badge\&logo=googletranslate\&logoColor=00ffff)
 
-```text
-日本語を勉強しています。
-
-[ hiragana ]  ████████░░
-[ katakana ]  ██████░░░░
-[ kanji    ]  ██░░░░░░░░
-```
-
----
-
 ## `> interests`
 
 ```text
